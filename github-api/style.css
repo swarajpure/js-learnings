@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+#pulls {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+#pr-detail {
+    margin: 20px;
+    border-radius: 15px;
+    padding: 10px; 
+    min-width: 30%;
+    max-width: 30%;
+    box-shadow: 1px 1px 10px 2px #ccc;
+}
+
+h3 a{
+    text-decoration: none;
+}
+
+p a {
+    text-decoration: none;
+}
