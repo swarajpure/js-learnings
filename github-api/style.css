@@ -21,6 +21,10 @@ h3 a{
     text-decoration: none;
 }
 
+p {
+    margin-left: 20px;
+}
+
 p a {
     text-decoration: none;
 }
